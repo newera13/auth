@@ -1,1 +1,6 @@
-return {2679846885, 1824853989}
+ModIDS = {
+    [1927495970] = true,
+    [2679846885] = true,
+}
+
+return ModIDS
